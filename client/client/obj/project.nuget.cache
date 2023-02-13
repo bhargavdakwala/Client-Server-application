@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eiRmCgs5GYBgAlSgm/Vh0GYSxZcG+VPCqEyvzNwMLOrvP1cTK6bdN1NRW73xtEc7GrVS4AQoOId24Zf0BnooiQ==",
+  "success": true,
+  "projectFilePath": "E:\\Sample\\client\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\india\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\india\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\india\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\india\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512",
+    "C:\\Users\\india\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
