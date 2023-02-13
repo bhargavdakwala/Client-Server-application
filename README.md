@@ -1,6 +1,6 @@
 # Getting Started.
 
-Due to time constraint, here I have used minimal toolstack. For advance level we can use gRPC and front-end react.js technology and for TDD we can include unit test project.
+I have used minimal toolstack. For advance level we can use gRPC and front-end react.js technology and for TDD we can include unit test project.
 1) I am using Window application with ".NET Core 3.1" and Web application using ".NET Framwork 4.7.2".
 2) Both application is using TcpClient and NetworkStream for sending and received messages.
 3) Application works in two direction.
